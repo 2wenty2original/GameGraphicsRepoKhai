@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\S22130235\Desktop\Project\pbrt-v3\src\ext\ptex\src\utils\ptxinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\S22130235\Desktop\Project\pbrt-v3\src\ext\ptex\src\utils\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{847EE18B-4CCE-3EA9-9339-ED3982272E86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

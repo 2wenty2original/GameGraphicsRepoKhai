@@ -1,0 +1,26 @@
+^C:\USERS\S22130235\DESKTOP\PROJECT\PBRT-V3\BUILD\CMAKEFILES\5A65C878A55B6F7F6493774C197609BC\COPYILMBASELIBS.RULE
+setlocal
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -E copy_directory C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Half/ C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -E copy_directory C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/IlmThread/ C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -E copy_directory C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Iex/ C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -E copy_directory C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Imath/ C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\S22130235\DESKTOP\PROJECT\PBRT-V3\SRC\EXT\OPENEXR\CMAKELISTS.TXT
+setlocal
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -SC:/Users/S22130235/Desktop/Project/pbrt-v3 -BC:/Users/S22130235/Desktop/Project/pbrt-v3/build --check-stamp-file C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

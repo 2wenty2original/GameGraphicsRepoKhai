@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckFunctionExists.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckTypeSize.cmake
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/zlib/CMakeLists.txt
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/zlib/zconf.h.cmakein
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/zlib/zlib.pc.cmakein

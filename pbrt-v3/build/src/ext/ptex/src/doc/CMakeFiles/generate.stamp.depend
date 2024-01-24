@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindDoxygen.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/ptex/src/doc/CMakeLists.txt

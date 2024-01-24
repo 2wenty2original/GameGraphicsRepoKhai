@@ -1,0 +1,38 @@
+^C:\USERS\S22130235\DESKTOP\PROJECT\PBRT-V3\BUILD\CMAKEFILES\D7265F2306662DC63E4D5665DE6CEEF6\ELUT.H.RULE
+setlocal
+cd C:\Users\S22130235\Desktop\Project\pbrt-v3\build\src\ext\openexr\IlmBase\Half
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\S22130235\Desktop\Project\pbrt-v3\build\src\ext\openexr\IlmBase\Half\Release\eLut.exe > C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Half/eLut.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\S22130235\DESKTOP\PROJECT\PBRT-V3\BUILD\CMAKEFILES\D7265F2306662DC63E4D5665DE6CEEF6\TOFLOAT.H.RULE
+setlocal
+cd C:\Users\S22130235\Desktop\Project\pbrt-v3\build\src\ext\openexr\IlmBase\Half
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\S22130235\Desktop\Project\pbrt-v3\build\src\ext\openexr\IlmBase\Half\Release\toFloat.exe > C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Half/toFloat.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\S22130235\DESKTOP\PROJECT\PBRT-V3\SRC\EXT\OPENEXR\ILMBASE\HALF\CMAKELISTS.TXT
+setlocal
+C:\Users\S22130235\Desktop\Project\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -SC:/Users/S22130235/Desktop/Project/pbrt-v3 -BC:/Users/S22130235/Desktop/Project/pbrt-v3/build --check-stamp-file C:/Users/S22130235/Desktop/Project/pbrt-v3/build/src/ext/openexr/IlmBase/Half/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

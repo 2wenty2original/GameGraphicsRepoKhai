@@ -1,0 +1,5 @@
+﻿  Generating eLut.h
+  Generating toFloat.h
+  Building Custom Rule C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/openexr/IlmBase/Half/CMakeLists.txt
+  half.cpp
+  Half.vcxproj -> C:\Users\S22130235\Desktop\Project\pbrt-v3\build\src\ext\openexr\IlmBase\Half\Release\Half.lib

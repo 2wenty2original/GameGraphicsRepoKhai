@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CPack.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CPackComponent.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Templates/CPackConfig.cmake.in
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/openexr/IlmBase/CMakeLists.txt

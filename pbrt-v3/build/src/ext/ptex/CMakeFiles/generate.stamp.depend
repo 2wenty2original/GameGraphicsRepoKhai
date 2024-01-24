@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CTest.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CTestTargets.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CTestUseLaunchers.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/DartConfiguration.tcl.in
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindThreads.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/FindZLIB.cmake
+C:/Users/S22130235/Desktop/Project/cmake-3.28.1-windows-x86_64/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Users/S22130235/Desktop/Project/pbrt-v3/src/ext/ptex/CMakeLists.txt

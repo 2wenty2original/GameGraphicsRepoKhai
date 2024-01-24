@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/S22130235/Desktop/Project/pbrt-v3/CMakeLists.txt
+  obj2pbrt.cpp
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1339,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1356,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1411,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\S22130235\Desktop\Project\pbrt-v3\src\tools\obj2pbrt.cpp(1497,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  obj2pbrt.vcxproj -> C:\Users\S22130235\Desktop\Project\pbrt-v3\build\Release\obj2pbrt.exe
