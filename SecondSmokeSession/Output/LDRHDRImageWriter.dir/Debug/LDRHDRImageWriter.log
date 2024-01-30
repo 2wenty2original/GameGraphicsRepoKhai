@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\S22130235\Desktop\GameGraphics\GameGraphicsRepoKhai\SecondSmokeSession\LDRHDRImageWriter\main.cpp(35,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  LDRHDRImageWriter.vcxproj -> C:\Users\S22130235\Desktop\GameGraphics\GameGraphicsRepoKhai\SecondSmokeSession\Output\Debug\LDRHDRImageWriter.exe

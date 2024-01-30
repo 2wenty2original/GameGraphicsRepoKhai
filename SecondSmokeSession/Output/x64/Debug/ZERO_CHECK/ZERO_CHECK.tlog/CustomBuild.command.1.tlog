@@ -1,0 +1,10 @@
+^C:\USERS\S22130235\DESKTOP\GAMEGRAPHICS\GAMEGRAPHICSREPOKHAI\SECONDSMOKESESSION\OUTPUT\CMAKEFILES\4BD7B1BB34B87C3CA5C3D7BE86CBEE5E\GENERATE.STAMP.RULE
+setlocal
+C:\Users\S22130235\Desktop\GameGraphics\GameGraphicsRepoKhai\cmake-3.28.1-windows-x86_64\cmake-3.28.1-windows-x86_64\bin\cmake.exe -SC:/Users/S22130235/Desktop/GameGraphics/GameGraphicsRepoKhai/SecondSmokeSession/LDRHDRImageWriter -BC:/Users/S22130235/Desktop/GameGraphics/GameGraphicsRepoKhai/SecondSmokeSession/Output --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/S22130235/Desktop/GameGraphics/GameGraphicsRepoKhai/SecondSmokeSession/Output/LDRHDRImageWriter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

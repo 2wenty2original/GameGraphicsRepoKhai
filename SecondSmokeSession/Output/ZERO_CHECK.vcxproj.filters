@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\S22130235\Desktop\GameGraphics\GameGraphicsRepoKhai\SecondSmokeSession\Output\CMakeFiles\4bd7b1bb34b87c3ca5c3d7be86cbee5e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{008265E6-9A74-3BCA-9E8B-2ED4CD1B6FDD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
